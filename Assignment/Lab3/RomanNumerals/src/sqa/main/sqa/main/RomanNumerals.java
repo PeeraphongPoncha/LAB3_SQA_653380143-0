@@ -4,6 +4,7 @@ Roman numerals employ letters to represent numbers.
 To convert a Roman-numerals input to its corresponding number, the program takes string and convert the string
 to an integer value.
 */
+package sqa.main;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -28,14 +29,15 @@ public class RomanNumerals {
 		int inputLength = romanNumber.length();
 		
 		for (int i = 0; i < inputLength; i++)
-		{	int currentNumber = map.get(romanNumber.charAt(i));		//map current character to number
+		{
+			int currentNumber = map.get(romanNumber.charAt(i));		//map current character to number
 			int nextNumber = i+1 < inputLength ? map.get(romanNumber.charAt(i+1)) : 0;	//get the adjacent character
 			
-			if (currentNumber > nextNumber) 
-			{	convertedNumber += currentNumber;
+			if (currentNumber < nextNumber)
+			{	convertedNumber -= currentNumber;
 				
 			} else {
-				convertedNumber -= currentNumber;
+				convertedNumber += currentNumber;
 			}
 						
 		}
