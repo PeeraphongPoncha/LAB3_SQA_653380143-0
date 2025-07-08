@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a93f829-2445-4288-8be4-edce442311fa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PeeraphongPoncha&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PeeraphongPoncha/LAB3_SQA_653380143-0.git",
+    "accountId": "14f12576-1211-4338-b6fd-82c72da01b24"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2za9JA9vpylFr87q4S2lBn31cGI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.RomanTest.TestSingleDigit.executor": "Run",
+    "JUnit.RomanTest.executor": "Run",
+    "JUnit.RomanTest.testCharA.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "2025",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\QA\SQA\Assignment\Lab3\RomanNumerals\src" />
+      <recent name="D:\QA\SQA\Assignment\Lab3\RomanNumerals\src\sqa" />
+      <recent name="D:\QA\SQA\Assignment\Lab3\RomanNumerals\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sqa.test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RomanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roman-numerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sqa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sqa.test" />
+      <option name="MAIN_CLASS_NAME" value="sqa.test.RomanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanTest.TestSingleDigit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roman-numerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sqa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sqa.test" />
+      <option name="MAIN_CLASS_NAME" value="sqa.test.RomanTest" />
+      <option name="METHOD_NAME" value="TestSingleDigit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanTest.testCharA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roman-numerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sqa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sqa.test" />
+      <option name="MAIN_CLASS_NAME" value="sqa.test.RomanTest" />
+      <option name="METHOD_NAME" value="testCharA" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RomanTest" />
+        <item itemvalue="JUnit.RomanTest.testCharA" />
+        <item itemvalue="JUnit.RomanTest.TestSingleDigit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a93f829-2445-4288-8be4-edce442311fa" name="Changes" comment="" />
+      <created>1751958242197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751958242197</updated>
+    </task>
+    <servers />
+  </component>
+</project>
